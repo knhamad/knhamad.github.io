@@ -1,12 +1,14 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "About Me"
+    url: /aboutme/
+  - title: "Research"
+    url: /research/
+  - title: "Publications & Presentations"
+    url: /present_pubs/
+  - title: "Curriculum Vitae"
+    url: /documents/Joshua Peeples CV.pdf
+  - title: "Blog"
+    url: /blog/
+  - title: "Connect"
+    url: /connect/
