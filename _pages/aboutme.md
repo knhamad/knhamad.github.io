@@ -15,23 +15,23 @@ IIR-Gamma Filter-Based Solution](https://ufdc.ufl.edu/UFE0058071/00001/downloads
 
 ##### **Doctor of Philosophy, Electrical and Computer Engineering**
 
-###### University of Florida
+###### *University of Florida*
 
-###### August 2021 - Present
+###### *August 2021 - Present*
 
 ##### **Master of Science, Electrical and Computer Engineering**
 
-###### University of Florida
+###### *University of Florida*
 
-###### August 2019 - July 2021
+###### *August 2019 - July 2021*
 
 ##### **Bachelor of Engineering, Electrical Engineering**
 
-###### American University of Kuwait (AUK)
+###### *American University of Kuwait (AUK)*
 
-###### May 2014 - June 2018
+###### *May 2014 - June 2018*
 
-###### Magna Cum Laude
+###### *Magna Cum Laude*
 
 <!-- ### Programming Languages
 * MATLAB
