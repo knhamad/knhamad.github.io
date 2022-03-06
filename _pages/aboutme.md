@@ -13,19 +13,19 @@ IIR-Gamma Filter-Based Solution](https://ufdc.ufl.edu/UFE0058071/00001/downloads
 
 ## Education
 
-##### Doctor of Philosophy, Electrical and Computer Engineering
+##### **Doctor of Philosophy, Electrical and Computer Engineering**
 
 ###### University of Florida
 
 ###### August 2021 - Present
 
-##### Master of Science, Electrical and Computer Engineering
+##### **Master of Science, Electrical and Computer Engineering**
 
 ###### University of Florida
 
 ###### August 2019 - July 2021
 
-##### Bachelor of Engineering, Electrical Engineering
+##### **Bachelor of Engineering, Electrical Engineering**
 
 ###### American University of Kuwait (AUK)
 
