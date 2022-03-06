@@ -10,8 +10,8 @@ Hyperspectral cameras (HSCs) provide a huge contribution to remote sensing data.
 ![HSI image](/images/SPICE Blog/HSI example.JPG)
 
 The problem with HSCs is that there are many aspects that would affect the gathered data, like atmospheric effects, light scattering to different molecules before reflected back to the HSC, and many other. In addition to this problem, data gathered with drone HSC, which have wider field of view where each pixel would be a 1x1 meter or even higher in reality. Pixels with this size could have multiple objects in them. For example, disregarding atmospheric effects, a pixel could have sand, water, and bricks in it and when the HSC captures the reflectance, the spectrum of that pixel will be a mix of those 3 materials. Therefore, it would be hard to tell if the spectra that is being observed is a pure pixel of the object being analyzed. That is where the Linear Mixing Model (LMM) comes in. The LMM assumes that each of the 3 materials, from the previous example, has a proportion value and combing them produces the seen spectrum. The figure below illustrates this process for a single pixel captured by HSC.
-![Linear mixing model](/images/SPICE Blog/Linear mixing example.JPG)
-where (&alpha;) represents the measured spectrum for that pixel. 
+![Linear mixing model](/images/SPICE Blog/Linear mixing example.JPG)<br/>
+where **y** &in; R<sup>B</sup> represents the measured spectrum for that pixel. 
 
 
 
