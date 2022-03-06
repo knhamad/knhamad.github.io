@@ -5,8 +5,11 @@ date: 2022-01-25
 tags: [Endmember Extraction, Hyperspectral]
 ---
 
-## Problem Statement: Shortcomings of Convolutional Neural Networks
+## Problem Statement: Hyperspectral Data Collection
+Hyperspectral cameras (HSCs) provide a huge contribution to remote sensing data. They have been used in a variety of application such as food safety, biomedical, and forensic applications. HSCs are operated on specific regions of the electromagnetic spectrum. Some are focused on the VNIR and others on SWIR. Below is an example of how Hysperspectral Image (HSI) looks like:
+![HSI image](/images/SPICE Blog/HSI example.JPG)
 
+The problem with HSCs is that some
 
 ### Why would a CNN struggle with statistical textures?
 
