@@ -15,8 +15,6 @@ I conduct research in the Machine Learning and Sensing Lab on detecting Aflatoxi
 
 ## Current Research Projects
 
-### Deep Learning for Texture Analysis
-
 ### Detecting and Identifying Aflatoxin Level on Peanuts
 
 ## Past Research Projects
