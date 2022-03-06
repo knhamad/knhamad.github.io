@@ -11,19 +11,15 @@ modified: 2021-12-30
 ## Research Interests
  Machine Learning, Deep Learning, Computer Vision, Image Processing
 ## Summary
-I conduct research in the Machine Learning and Sensing Lab on seafloor segmentation using deep learning methodologies for the Office of Naval Research (ONR). During my PhD studies, I plan to develop and refine novel deep learning methods for texture characterization, segmentation and classification. These methods could then be applied toward automated image understanding, object detection and classification. Our goal on the application of these methods to sonar data is to develop an environmentally aware automatic target recognition system. The first step towards this goal is to segment the synthetic aperture sonar (SAS) images into different environments (seagrass, sand ripple, etc.) using the novel texture characterization approaches and then, develop target detectors that are optimized for each environment. My research can be applied to numerous difficult real-world applications affecting human life such as self-driving cars, autonomous robotics, augmented reality, automated medical diagnosis, and explosive hazard detection for the military.  
+I conduct research in the Machine Learning and Sensing Lab on detecting Aflatoxin on peanuts using Hyperspectral data. I developed image segmentation models using clustering and deep learning algorithms. I plan to develop a model that will be able to detect and identify the level of aflatoxin on peanuts. Aflatoxin is the number 1 cause of liver cancer globally, which is why it is an urgent problem that needs a solution. The first step toward this goal is to collect Hyperspectral Images of peanuts and segment the images so that we have the peanut pixels separated from the bachground pixels. After that, develop target detectors that are optimized for aflatoxin spectra. Then, identifying the level of aflatoxin on each of those pixels. My research can be applied to numerous difficult real-world applications affecting human life; such as self-driving cars, autonomous robotics, augmented reality, and automated medical diagnosis.  
 
 ## Current Research Projects
 
 ### Deep Learning for Texture Analysis
 
-### Seafloor Segmentation for Office of Naval Research (ONR)
+### Detecting and Identifying Aflatoxin Level on Peanuts
 
 ## Past Research Projects
 
-### Histological Image Segmentation
-
-### Sesame Root Architecture Analysis
-
-### Bias in Machine Learning
+### Developing Prediction Models for Smart-Grid Cyber-Physical Security
 
