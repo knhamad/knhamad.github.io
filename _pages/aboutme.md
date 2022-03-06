@@ -7,9 +7,9 @@ layout: single
 author_profile: true
 sitemap: true
 modified: 2019-09-20
----
-hi there
-
+--- 
+Hello and welcome! My Name is Khaled Hamad. I have received my Bachelor of Engineering at the American University of Kuwait. After getting my B.E., I went to the University of Florida and earned my Master of Science with thesis. My thesis topic was "[Smart Grid Real-Time Monitoring Cyber Physical System Security Enhancement:
+IIR-Gamma Filter-Based Solution]" (https://ufdc.ufl.edu/UFE0058071/00001/downloads)
 
 ## Education
 
